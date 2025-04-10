@@ -6,7 +6,7 @@ This repository contains resources and code samples for building real-time voice
 
 If you missed the live workshop, you can:
 - [Watch the recording here](#) <!-- Replace with actual link -->
-- [Access the slide deck here](#) <!-- Replace with actual link -->
+- [Access the slide deck here](https://www.crowdcast.io/c/vonagedeepgram) <!-- Replace with actual link -->
 
 ## Prerequisites
 
